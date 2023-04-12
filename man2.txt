@@ -1,2 +1,4 @@
 -------tumbuhan
 tulip
+-------pohon
+mangga
