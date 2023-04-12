@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 saya manusia1
 =======
 kamu maunia kadal
 kadal kamu
 oke gak
-
->>>>>>> dev
