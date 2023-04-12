@@ -3,3 +3,4 @@ tulip
 -------pohon
 mangga
 jambu
+jerut purut
