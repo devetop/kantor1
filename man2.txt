@@ -2,3 +2,4 @@
 tulip
 -------pohon
 mangga
+jambu
